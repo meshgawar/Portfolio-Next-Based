@@ -1,0 +1,15 @@
+.footer {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.footer__container {
+  padding: 2rem 0;
+  display: grid;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.footer__copy {
+  text-align: center;
+  font-size: 0.9rem;
+}
