@@ -90,7 +90,7 @@ export default function Qualification() {
 
                     <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Softfare Engineering Intern</h3>
+                                <h3 className="qualification__title">Software Engineering Intern</h3>
                                 <span className="qualification__subtitle">Seoulix Technologies (OPC) Private Limited</span>
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"> Nov 2025 - Present</i> 
