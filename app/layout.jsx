@@ -31,7 +31,7 @@ export const metadata = {
             "Portfolio of Mesh Gawar — MERN Stack & Next.js developer building modern web applications.",
         url: "https://meshgawar.dev",
         siteName: "Mesh Gawar Portfolio",
-        images: ["/mesh-gawar-profile.jpg"],
+        images: ["/mesh-gawar-profile.jpg","/mesh-gawar-portfolio.png"],
         locale: "en_US",
         type: "website",
     },
@@ -41,7 +41,7 @@ export const metadata = {
         title: "Mesh Gawar Portfolio",
         description:
             "MERN Stack & Next.js developer building scalable web applications.",
-        images: ["/mesh-gawar-profile.jpg"],
+        images: ["/mesh-gawar-profile.jpg","/mesh-gawar-portfolio.png"],
     },
 
     robots: {
@@ -55,7 +55,7 @@ export default function RootLayout({ children }) {
         <html lang="en">
             <head>
                 {/* Favicon */}
-                <link rel="icon" type="image/svg+xml" href="/user.svg" />
+                <link rel="icon" type="image/svg+xml" href="/favicon.svg" media="(prefers-color-scheme: light)"/>
 
                 {/* BOXICONS */}
                 <link
@@ -94,7 +94,7 @@ export default function RootLayout({ children }) {
                             jobTitle: "Full Stack Developer",
                             sameAs: [
                                 "https://github.com/meshgawar",
-                                "https://linkedin.com/in/meshgawar24",
+                                "https://www.linkedin.com/in/meshgawar24/",
                                 "https://leetcode.com/u/meshgawar24/",
                                 "https://www.hackerrank.com/profile/meshgawar"
                             ],
