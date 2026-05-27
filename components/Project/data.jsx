@@ -20,7 +20,7 @@ export const projectsData = [
     id: 3,
     image: "./aroga-dashboard.png",
     title: "Aroga - An Online Healthcare Platform",
-    link: "#",
+    link: "https://aroga.vercel.app/",
     description: "Aroga is an online healthcare platform that connects patients with doctors for virtual consultations, appointment scheduling, and access to medical resources. Build using Next.js, Tailwind CSS.",
     category: "Full-Stack",
   }
