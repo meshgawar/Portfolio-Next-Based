@@ -89,6 +89,12 @@ export default function Qualification() {
                     <div className={getToggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
 
                     <div className="qualification__data">
+                            <div></div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
                             <div>
                                 <h3 className="qualification__title">Support Executive Intern</h3>
                                 <span className="qualification__subtitle">Eazy Erp Technologies Pvt. Ltd. Gurugram</span>
@@ -96,7 +102,9 @@ export default function Qualification() {
                                     <i className="uil uil-calendar-alt"> May 2026 - Present</i> 
                                 </div>
                             </div>
+                        </div>
 
+                    <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Software Engineering Intern</h3>
                                 <span className="qualification__subtitle">Seoulix Technologies (OPC) Private Limited</span>
@@ -109,7 +117,7 @@ export default function Qualification() {
                                 <span className="qualification__rounder"></span>
                                 <span className="qualification__line"></span>
                             </div>
-                        </div>
+                    </div>
 
                         {/* Second Data */}
                         <div className="qualification__data">
