@@ -37,7 +37,7 @@ export default function Qualification() {
                                 <h3 className="qualification__title">B.tech</h3>
                                 <span className="qualification__subtitle">BSA College Of Engg. & Tech.</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i> 2022 - Present
+                                    <i className="uil uil-calendar-alt"></i> 2022 - 2026
                                 </div>
                             </div>
 
@@ -90,10 +90,18 @@ export default function Qualification() {
 
                     <div className="qualification__data">
                             <div>
+                                <h3 className="qualification__title">Support Executive Intern</h3>
+                                <span className="qualification__subtitle">Eazy Erp Technologies Pvt. Ltd. Gurugram</span>
+                                <div className="qualification__calendar">
+                                    <i className="uil uil-calendar-alt"> May 2026 - Present</i> 
+                                </div>
+                            </div>
+
+                            <div>
                                 <h3 className="qualification__title">Software Engineering Intern</h3>
                                 <span className="qualification__subtitle">Seoulix Technologies (OPC) Private Limited</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"> Nov 2025 - Present</i> 
+                                    <i className="uil uil-calendar-alt"> Nov 2025 - Feb 2026</i> 
                                 </div>
                             </div>
 
